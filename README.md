@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcussanMG
-- 👀 I’m interested in Cibersecurity, OS and Programing
-- 🌱 I’m currently learning administration of computer network systems
+- 👀 I’m interested in Cibersecurity, OS admministratrion and Programing
+- 🌱 I’m currently studying Applied Computer Science - Cyber Security Professional At Howest University.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/marc-martin-gil/)
 
 <!---
