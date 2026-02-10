@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Bl1nk<br>👀 I’m interested in Cibersecurity, OS admministratrion and Programing<br>🌱 I’m currently studying Applied Computer Science - Cyber Security Professional At Howest University.<br>📫 How to reach me Linkedin
+👋 Hi, I’m @Bl1nk<br>👀 I’m interested in Cibersecurity, OS admministratrion and Programing<br>🌱 I’m currently studying Applied Computer Science - Cyber Security Professional At Howest University.<br>
 
 
 ## 🌐 Socials:
