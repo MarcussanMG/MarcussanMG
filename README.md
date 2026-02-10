@@ -11,6 +11,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarcussanMG&theme=dark&hide_border=false)
 
-![Metrics](https://github.com/MarcussanMG/MarcussanMG/blob/main/github-metrics.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
