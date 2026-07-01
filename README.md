@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MarcussanMG although I go by @Bl1nk nowadays<br>👀 I’m interested in Cybersecurity, OS admministratrion and Programming<br>🌱 I’m currently studying Applied Computer Science - Cyber Security Professional At Howest University.<br>
+👋 Hi, I’m @MarcussanMG, although I go by @Bl1nk nowadays<br>👀 I’m interested in Cybersecurity, OS administration and Programming<br>🌱 I’m a Computer scientist graduate from HOWEST, and specialized in cybersecurity. <br>
 
 
 ## 🌐 Socials:
