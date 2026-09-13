@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32164756/README.md)
+
 <h1 align="left">Hi, I'm Marc 👋</h1>
 <p align="left"><i>Junior Penetration Tester · Cybersecurity Graduate</i></p>
 
@@ -58,7 +58,3 @@
 </p>
 
 <br/>
-
-<p align="left">
-  🌍 <a href="https://marcmartingil.com/">Portfolio & Writeups</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/marc-martin-gil/">LinkedIn</a>
-</p>
