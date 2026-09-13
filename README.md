@@ -1,15 +1,64 @@
-# 💫 About Me:
-👋 Hi, I’m @MarcussanMG, although I go by @Bl1nk nowadays<br>👀 I’m interested in Cybersecurity, OS administration and Programming<br>🌱 I’m a Computer scientist graduate from HOWEST, and specialized in cybersecurity. <br>
+[README.md](https://github.com/user-attachments/files/32164756/README.md)
+<h1 align="left">Hi, I'm Marc 👋</h1>
+<p align="left"><i>Junior Penetration Tester · Cybersecurity Graduate</i></p>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-martin-gil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121013?logo=firefox-browser&logoColor=white)](https://marcmartingil.com/)
+<h3 align="left">🕵️ About Me</h3>
 
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+- 🛡️ Junior **Penetration Tester**, cybersecurity graduate from **HOWEST**, specialized in offensive security
+- 🏆 Certified: **eJPTv2** · **eWPTv2**
+- 📈 Working on: **OSCP**
+- 🔬 Hands-on with offensive security projects, writeups and infrastructure security work
+- 🖧 Also into OS administration, networking and Python/Bash scripting for tooling and automation
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MarcussanMG&theme=dark&hide_border=false)
+<br/>
 
+<h3 align="left">🎯 Focus Areas</h3>
 
+<p align="left">
+<img src="https://img.shields.io/badge/Penetration%20Testing-CC2936?style=for-the-badge" alt="Penetration Testing"/>
+<img src="https://img.shields.io/badge/Web%20App%20Security-CC2936?style=for-the-badge" alt="Web App Security"/>
+<img src="https://img.shields.io/badge/Network%20Security-CC2936?style=for-the-badge" alt="Network Security"/>
+<img src="https://img.shields.io/badge/OS%20Administration-CC2936?style=for-the-badge" alt="OS Administration"/>
+</p>
+
+<br/>
+
+<h3 align="left">💻 Tech Stack</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+<br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<br/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+</p>
+
+<br/>
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MarcussanMG&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcussanMG&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<br/>
+
+<p align="left">
+  🌍 <a href="https://marcmartingil.com/">Portfolio & Writeups</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/marc-martin-gil/">LinkedIn</a>
+</p>
