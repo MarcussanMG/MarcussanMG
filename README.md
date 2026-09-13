@@ -53,7 +53,7 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MarcussanMG&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MarcussanMG&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcussanMG&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
