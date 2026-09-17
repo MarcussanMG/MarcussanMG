@@ -48,13 +48,12 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
 </p>
 
-<br/>
+<h3 align="left">📊 GitHub Activity</h3>
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MarcussanMG&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcussanMG&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MarcussanMG&theme=dark&hide_border=true"
+    alt="GitHub contribution streak"
+    height="165"
+  />
 </p>
-
-<br/>
